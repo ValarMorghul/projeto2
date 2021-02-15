@@ -1,0 +1,20 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: grey;
+	font-family: arial;
+}
+
+.banner_title,p{
+	color: white;
+}
+
+.banner_title,p,.banner,.banner_desc,.facts{
+	text-align: center;
+}
+.facts_desc{
+	color: black;
+}
+footer{
+	padding: 15px;
+}
